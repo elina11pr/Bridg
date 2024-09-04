@@ -1,0 +1,14 @@
+C:\Users\igori\OneDrive\Робочий стіл\BridgePatternCar-main\BridgePatternCar-main\obj\Debug\net8.0\BridgePatternCar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igori\OneDrive\Робочий стіл\BridgePatternCar-main\BridgePatternCar-main\obj\Debug\net8.0\BridgePatternCar.AssemblyInfoInputs.cache
+C:\Users\igori\OneDrive\Робочий стіл\BridgePatternCar-main\BridgePatternCar-main\obj\Debug\net8.0\BridgePatternCar.AssemblyInfo.cs
+C:\Users\igori\OneDrive\Робочий стіл\BridgePatternCar-main\BridgePatternCar-main\obj\Debug\net8.0\BridgePatternCar.csproj.CoreCompileInputs.cache
+C:\Users\igori\OneDrive\Робочий стіл\BridgePatternCar-main\BridgePatternCar-main\bin\Debug\net8.0\BridgePatternCar.exe
+C:\Users\igori\OneDrive\Робочий стіл\BridgePatternCar-main\BridgePatternCar-main\bin\Debug\net8.0\BridgePatternCar.deps.json
+C:\Users\igori\OneDrive\Робочий стіл\BridgePatternCar-main\BridgePatternCar-main\bin\Debug\net8.0\BridgePatternCar.runtimeconfig.json
+C:\Users\igori\OneDrive\Робочий стіл\BridgePatternCar-main\BridgePatternCar-main\bin\Debug\net8.0\BridgePatternCar.dll
+C:\Users\igori\OneDrive\Робочий стіл\BridgePatternCar-main\BridgePatternCar-main\bin\Debug\net8.0\BridgePatternCar.pdb
+C:\Users\igori\OneDrive\Робочий стіл\BridgePatternCar-main\BridgePatternCar-main\obj\Debug\net8.0\BridgePatternCar.dll
+C:\Users\igori\OneDrive\Робочий стіл\BridgePatternCar-main\BridgePatternCar-main\obj\Debug\net8.0\refint\BridgePatternCar.dll
+C:\Users\igori\OneDrive\Робочий стіл\BridgePatternCar-main\BridgePatternCar-main\obj\Debug\net8.0\BridgePatternCar.pdb
+C:\Users\igori\OneDrive\Робочий стіл\BridgePatternCar-main\BridgePatternCar-main\obj\Debug\net8.0\BridgePatternCar.genruntimeconfig.cache
+C:\Users\igori\OneDrive\Робочий стіл\BridgePatternCar-main\BridgePatternCar-main\obj\Debug\net8.0\ref\BridgePatternCar.dll
